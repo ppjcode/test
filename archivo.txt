@@ -6,6 +6,4 @@ Titulo del Archivo
 Descripción
     Esta es la descripción de este post
 
-
-
 Footer
